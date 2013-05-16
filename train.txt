@@ -1,0 +1,50 @@
+'1. Los objetos del cinturon de kulper:'.
+'a) Son los objetos mas proximos a la Tierra.'.
+'b) Son los objetos con mayor temperatura del sistema solar.'.
+'c) Tienen menos años que los demas objetos del sistema.'.
+'d) son objetos heldos exteriores en orbitas estables.'.
+'2. El cinturon de Asteroides del sistema solar se encuentra entre los planetas: '.
+'a) Venus y Mercurio.'.
+'b) Tierra y Marte.'.
+'c) Saturno y Urano.'.
+'d) Marte y Jupiter.'.
+'3. El numero de planetas del sistema solar es:'.
+'a) El sistema solar tiene 5 planetas.'.
+'b) El sistema solar consta de 6 planetas.'.
+'c) Los planetas del sistemas solar son 11.'.
+'d) El numero de planetas del sistema solar son 8.'.
+'4. Los planetas interiores son:'.
+'a) Jupiter, Neptuno y la Tierra.'.
+'b) Marte, Jupiter y Neptuno.'.
+'c) Venus, Tierra y Saturno.'.
+'d) Mercurio, Venus, Tierra y Marte.'.
+'5. El satelite con mayor diametro del sistema solar es:'.
+'a) La Luna.'.
+'b) Triton de Neptuno.'.
+'c) Europa de Jupiter.'.
+'d) Ganimedes de Jupiter.'.
+'6. A que es debido el nombre del planeta Marte?.'.
+'a) A que se descubrio en un martes nublado.'.
+'b) A que el que lo descubrio se llamaba Martes Stinson.'.
+'c) A que es el segundo planeta mas cercano al Sol.'.
+'d) Al dios de la guerra de la mitologia romana Marte.'.
+'7. Donde dura mas un año?.'.
+'a) En Marte.'.
+'b) En la Tierra.'.
+'c) En Mercurio.'.
+'d) En Neptuno.'.
+'8. ¿Que es un año cosmico?.'.
+'a) Es lo mismo que un año terrestre.'.
+'b) Son 100 años.'.
+'c) Es lo que tarda una estrella en recorrer un año luz.'.
+'d) Es el tiempo que tarda el Sol en dar una vuelta al centro de nuestra galaxia.'.
+'9. ¿Que es un año luz?.'.
+'a) Es la cantidad de luz que recibe la Tierra en un año.'.
+'b) Es la distancia que anda el sonido en un año.'.
+'c) Es una medida de peso.'.
+'d) Es la distancia que percorre la luz durante un año.'.
+'10. En el calendario romano el año comenzaba:.'.
+'a) En el mes de Diciembre.'.
+'b) A principios del verano.'.
+'c) A principio del otoño.'.
+'d) En el mes de marzo.'.

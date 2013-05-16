@@ -1,0 +1,22 @@
+% listado de sinonimos para palabras definidas
+synonyms(X, X).
+synonyms('objetos', 'elementos').
+synonyms('objetos', 'astros').
+synonyms('objetos', 'cosas').
+synonyms('objetos', 'entes').
+synonyms('objetos', 'cuerpos').
+synonyms('objetos', 'piezas').
+synonyms('cinturon', 'anillo').
+synonyms('encuentra', 'localiza').
+synonyms('encuentra', 'haya').
+synonyms('planetas', 'astros').
+synonyms('numero', 'cantidad').
+synonyms('diametro', 'anchura').
+synonyms('debido', 'debe').
+synonyms('nombre', 'sustantivo').
+synonyms('nombre', 'denomina').
+synonyms('donde', 'lugar').
+synonyms('dura', 'lleva').
+synonyms('comenzaba', 'comienza').
+synonyms('comenzaba', 'empezaba').
+synonyms('comenzaba', 'empieza').
