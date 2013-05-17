@@ -1,0 +1,12 @@
+Test Solver Bot
+===============
+
+Very simple test solver bot written as a college's Artificial Intelligence
+course assignment. It takes a train file, which has a set of test questions to
+train the bot (correct answers being always 4th), and a test file, with similar
+questions as the train file (reordered, negated and using synonyms). The bot
+will try to correctly solve the questions in the test file.
+
+It is written in Prolog (SWI), and has a predefined set of synonyms
+(synonyms.pl) for the train.txt and test.txt files, and a set of unnecessary
+words (cleanup_words.pl) in Spanish.
